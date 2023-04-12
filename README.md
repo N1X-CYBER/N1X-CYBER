@@ -104,8 +104,6 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=N1X-CYBER.visitor-badge&left_color=blue&right_color=yellow)
 <br />
  
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
+
  
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/N1X-CYBER/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=N1X-CYBER&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
- 
+
